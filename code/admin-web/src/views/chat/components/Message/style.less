@@ -1,0 +1,171 @@
+.markdown-body {
+
+	background-color: white;
+
+
+	p {
+		white-space: pre-wrap;
+	}
+
+	ol {
+		list-style-position: inside;
+		list-style-type: decimal;
+	}
+
+	ul {
+		list-style-position: inside;
+		list-style-type: disc;
+	}
+
+	pre code,
+	pre tt {
+		line-height: 1.65;
+	}
+
+	.highlight pre,
+	pre {
+		// background-color: #282c34;
+		background-color: rgb(212, 9, 9);
+	}
+
+	code.hljs {
+		padding: 0;
+	}
+
+	.code-block {
+		&-wrapper {
+			
+			position: relative;
+			padding-top: 24px;
+		
+		}
+
+		&-header {
+			background-color: rgba(85, 52, 78, 0.637);
+			position: absolute;
+			top: 0px;
+			right: 0;
+			width: 100%;
+			padding: 0rem 1rem;
+			display: flex;
+			justify-content: flex-end;
+			align-items: center;
+			color: #f7eded;
+
+			&__copy {
+				cursor: pointer;
+				margin-left: 0.5rem;
+				user-select: none;
+
+				&:hover {
+					color: #65a665;
+				}
+			}
+		}
+	}
+
+
+}
+
+html.dark {
+
+	.message-reply {
+		.whitespace-pre-wrap {
+			white-space: pre-wrap;
+			color: var(--n-text-color);
+		}
+	}
+
+	.highlight pre,
+	pre {
+		background-color: #282c34;
+	}
+}
+
+@media screen and (max-width: 533px) {
+	.markdown-body .code-block-wrapper {
+		padding: unset;
+		code {
+			padding: 24px 16px 16px 16px;
+		}
+	}
+}
+
+
+
+
+.pulser {
+	width: 30px;
+	height: 30px;
+	background: rebeccapurple;
+	border-radius: 50%;
+	position: relative;
+  }
+  
+  .pulser::after {
+	animation: pulse 1000ms cubic-bezier(0.9, 0.7, 0.5, 0.9) infinite;
+  }
+  
+  @keyframes pulse {
+	0% {
+	  opacity: 0;
+	}
+	50% {
+	  transform: scale(1.4);
+	  opacity: 0.4;
+	}
+  }
+  
+  .pulser::after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: blueviolet;
+	border-radius: 50%;
+	z-index: -1;
+  }
+  
+
+
+
+
+
+  .dots {
+	width: 12.4px;
+	height: 12.4px;
+	position: relative;
+ }
+ 
+ .dots::before,
+ .dots::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	border-radius: 50%;
+	background: #474bff;
+ }
+ 
+ .dots::before {
+	box-shadow: -26.9px 0 #474bff;
+	animation: dots-dm1l1cmd 0.6s infinite linear;
+ }
+ 
+ .dots::after {
+	transform: rotate(0deg) translateX(26.9px);
+	animation: dots-dh1qq5md 0.6s infinite linear;
+ }
+ 
+ @keyframes dots-dm1l1cmd {
+	100% {
+	   transform: translateX(26.9px);
+	}
+ }
+ 
+ @keyframes dots-dh1qq5md {
+	100% {
+	   transform: rotate(-180deg) translateX(26.9px);
+	}
+ }

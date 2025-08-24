@@ -1,0 +1,54 @@
+{
+    "default_ai_model":{
+    
+        "id": "UUID",
+        "company_id": "UUID",
+        "company": {
+            "id": "UUID",
+            "name": "String",
+            "company_url": "String",
+            "logo_url": "String",
+            "api_url": "String",
+            "is_activate": true,
+           "api_key":"String",
+            "created_at": "DateTime",
+            "updated_at": "DateTime"
+          }
+          ,
+        "name": "String",
+        "model_code": "String",
+        "description": "String",
+        "is_activate": true,
+        "version": "String",
+        "input_data":["String"],
+        "output_data":["String"],
+        "max_tokens": 512,
+        "temperature": 0.7,
+        "top_p": 0.7,
+        "top_k": 50,
+        "repetition_penalty": 1,
+        "stop": ["[/INST]", "</s>"],
+        "stream": true,
+        "created_at": "DateTime",
+        "updated_at": "DateTime"
+    
+      
+    },
+    "default_message": "String",
+    "terms_of_use_url":"String",
+    "privacy_policy_url":"String",
+  
+    "url_googlplay": "String",
+    "url_appstore": "String",
+    "url_facebook": "String",
+    "url_youtube": "String",
+    "url_whatsapp": "String",
+    "email": "String",
+    "url_instagram": "String",
+    "url_tiktok": "String",
+    "phonenumber": "String",
+
+    "created_at": "DateTime",
+    "updated_at": "DateTime"
+  }
+  

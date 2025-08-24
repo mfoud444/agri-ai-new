@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132372047394",
+    "project_id": "agri-ai-de3e3",
+    "storage_bucket": "agri-ai-de3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132372047394:android:0e019ed957289599ee8c7b",
+        "android_client_info": {
+          "package_name": "com.worldofplants.agri_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7e_x9vg63a5GfiLkKL7JpE21eDns0WR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

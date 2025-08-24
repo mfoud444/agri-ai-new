@@ -1,0 +1,103 @@
+{
+    "en": [
+      {
+        "title": "Machine Learning",
+        "codes": [
+          "Explore advanced machine learning algorithms",
+          "Implement deep learning models",
+          "Conduct experiments and analyze results"
+        ]
+      },
+      {
+        "title": "Quantum Computing",
+        "codes": [
+          "Study quantum algorithms and their applications",
+          "Develop quantum software using Qiskit",
+          "Understand quantum information theory"
+        ]
+      },
+      {
+        "title": "Biomedical Research",
+        "codes": [
+          "Conduct experiments in molecular biology",
+          "Analyze medical data for research insights",
+          "Explore innovative healthcare technologies"
+        ]
+      },
+      {
+        "title": "Artificial Intelligence in Education",
+        "codes": [
+          "Develop AI-driven educational tools",
+          "Implement natural language processing for learning",
+          "Explore adaptive learning systems"
+        ]
+      },
+      {
+        "title": "Climate Change Modeling",
+        "codes": [
+          "Build climate models using machine learning",
+          "Analyze environmental data for climate predictions",
+          "Investigate the impact of human activities on climate"
+        ]
+      },
+      {
+        "title": "Cybersecurity Research",
+        "codes": [
+          "Study advanced encryption algorithms",
+          "Analyze cybersecurity threats and vulnerabilities",
+          "Develop strategies for secure information exchange"
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "title": "تعلم الآلة",
+        "codes": [
+          "استكشاف خوارزميات التعلم الآلي المتقدمة",
+          "تنفيذ نماذج العمق في التعلم الآلي",
+          "إجراء التجارب وتحليل النتائج"
+        ]
+      },
+      {
+        "title": "الحوسبة الكمومية",
+        "codes": [
+          "دراسة الخوارزميات الكمومية وتطبيقاتها",
+          "تطوير برمجيات الكم باستخدام Qiskit",
+          "فهم نظرية المعلومات الكمومية"
+        ]
+      },
+      {
+        "title": "البحث الطبي",
+        "codes": [
+          "إجراء التجارب في علم الأحياء الجزيئي",
+          "تحليل البيانات الطبية للاستنتاجات البحثية",
+          "استكشاف تقنيات الرعاية الصحية المبتكرة"
+        ]
+      },
+      {
+        "title": "الذكاء الاصطناعي في التعليم",
+        "codes": [
+          "تطوير أدوات تعليمية بتقنيات الذكاء الاصطناعي",
+          "تنفيذ معالجة اللغة الطبيعية لأغراض التعلم",
+          "استكشاف أنظمة التعلم التكيفي"
+        ]
+      },
+      {
+        "title": "نمذجة تغير المناخ",
+        "codes": [
+          "إنشاء نماذج مناخية باستخدام التعلم الآلي",
+          "تحليل البيانات البيئية لتوقعات المناخ",
+          "التحقيق في تأثير الأنشطة البشرية على المناخ"
+        ]
+      },
+      {
+        "title": "الأمن السيبراني",
+        "codes": [
+          "دراسة خوارزميات التشفير المتقدمة",
+          "تحليل تهديدات وثغرات الأمن السيبراني",
+          "تطوير استراتيجيات لتبادل المعلومات الآمن"
+        ]
+      }
+    ]
+  }
+  

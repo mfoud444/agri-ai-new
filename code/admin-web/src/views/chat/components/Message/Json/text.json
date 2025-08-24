@@ -1,0 +1,55 @@
+{
+    "en": [
+      {
+        "title": "Programming",
+        "codes": [
+          "Develop software solutions",
+          "Debug and troubleshoot code",
+          "Optimize code for performance"
+        ]
+      },
+      {
+        "title": "Authoring",
+        "codes": [
+          "Write captivating stories",
+          "Craft engaging content",
+          "Create compelling narratives"
+        ]
+      },
+      {
+        "title": "Designing",
+        "codes": [
+          "Create user-friendly interfaces",
+          "Implement responsive designs",
+          "Innovate visual concepts"
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "title": "برمجة",
+        "codes": [
+          "تطوير حلول البرمجيات",
+          "تصحيح الأخطاء واستكشافها",
+          "تحسين الشيفرة لتحقيق أفضل أداء"
+        ]
+      },
+      {
+        "title": "كتابة",
+        "codes": [
+          "كتابة قصص جذابة",
+          "صياغة محتوى جذاب",
+          "إنشاء سرد جذاب"
+        ]
+      },
+      {
+        "title": "تصميم",
+        "codes": [
+          "إنشاء واجهات سهلة الاستخدام",
+          "تنفيذ تصاميم متجاوبة",
+          "ابتكار مفاهيم بصرية"
+        ]
+      }
+    ]
+  }
+  

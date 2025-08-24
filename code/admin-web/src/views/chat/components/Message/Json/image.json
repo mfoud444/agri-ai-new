@@ -1,0 +1,49 @@
+{
+    "en": [
+      {
+        "title": "Cinematic Style",
+        "codes": [
+          "Create a cinematic image of a cityscape",
+          "Produce a dramatic scene with strong lighting"
+        ]
+      },
+      {
+        "title": "Photographic Style",
+        "codes": [
+          "Capture a natural landscape in a photographic style",
+          "Take a portrait with soft and natural lighting"
+        ]
+      },
+      {
+        "title": "Anime Style",
+        "codes": [
+          "Illustrate a scene in an anime/manga style",
+          "Create characters with expressive features"
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "title": "نمط سينمائي",
+        "codes": [
+          "إنشاء صورة سينمائية للمدينة",
+          "إنتاج مشهد درامي مع إضاءة قوية"
+        ]
+      },
+      {
+        "title": "نمط فوتوغرافي",
+        "codes": [
+          "تصوير مناظر طبيعية بشكل فوتوغرافي",
+          "التقاط صورة شخصية بإضاءة ناعمة وطبيعية"
+        ]
+      },
+      {
+        "title": "نمط الأنمي",
+        "codes": [
+          "رسم مشهد بأسلوب أنمي / مانجا",
+          "إنشاء شخصيات بملامح تعبيرية"
+        ]
+      }
+    ]
+  }
+  

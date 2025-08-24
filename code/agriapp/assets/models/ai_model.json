@@ -1,0 +1,29 @@
+{
+    "id": "UUID",
+    "company_id": "UUID",
+    "company": {
+        "id": "UUID",
+        "name": "String",
+        "company_url": "String",
+        "logo_url": "String",
+        "api_url": "String",
+        "is_activate": true,
+        "created_at": "DateTime",
+        "updated_at": "DateTime"
+      }
+      ,
+    "name": "String",
+    "model_code": "String",
+    "description": "String",
+    "is_activate": true,
+    "version": "String",
+    "ai_model_output":[{
+        "id": "UUID",
+        "model_id": "UUID",
+        "output_data": "String"
+      }],
+      
+    "created_at": "DateTime",
+    "updated_at": "DateTime"
+  }
+  

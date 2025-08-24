@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "avatar_url": "https://example.com/avatar.jpg",
+    "date_of_birth": "1990-01-01",
+    "state": true,
+    "gender": "Male",
+    "user_type": "Client",
+    "country": "USA",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  }
+  

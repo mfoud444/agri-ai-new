@@ -1,0 +1,58 @@
+[
+  {
+    "id": "UUID",
+    "user_id": "UUID",
+    "title": "String",
+    "created_at": "DateTime",
+    "updated_at": "DateTime",
+    "type":"String",
+    "is_pin":false,
+    "is_like":null,
+    "is_edit":false,
+    "is_favorite":false,
+    "question": [
+      {
+        "id": "UUID",
+        "conversation_id": "UUID",
+        "content": "String",
+        "created_at": "DateTime",
+        "updated_at": "DateTime",
+        "question_media": [
+          {
+            "id": "UUID",
+            "question_id": "UUID",
+            "media_url": "String",
+            "media_type": "String",
+            "created_at": "DateTime",
+            "updated_at": "DateTime"
+         
+          }
+        ],
+        "answer": [
+          {
+            "id": "UUID",
+            "question_id": "UUID",
+            "content": "String",
+            "isLoading":true,
+            "is_error":false,
+            "is_like":null,
+            "status":"String",
+            "created_at": "DateTime",
+            "updated_at": "DateTime",
+            "answer_media": [
+              {
+                "id": "UUID",
+                "answer_id": "UUID",
+                "media_url": "String",
+                "media_type": "String",
+                "created_at": "DateTime",
+                "updated_at": "DateTime"
+             
+              }
+            ]
+          }
+        ]
+      }
+    ]
+    }
+  ]
